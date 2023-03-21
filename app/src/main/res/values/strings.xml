@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ramadanTask</string>
-    <string name="ramadanText">رمضان كريم وكل عام وانتم بخير</string>
+    <string name="ramadanText">RAMADAN MUBARAK</string>
+    <string name="ramadanWishing">Wishing you health and prosperity this Ramadan ,May all your prayers be answered this Ramadan and always</string>
 </resources>
