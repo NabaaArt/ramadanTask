@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largeTextSize">24sp</dimen>
+    <dimen name="xLargeTextSize">28sp</dimen>
+    <dimen name="normalMargin">16dp</dimen>
+    <dimen name="largeMargin">40dp</dimen>
+</resources>
